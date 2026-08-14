@@ -12,25 +12,21 @@ B.Tech CSE (AI & ML) student at GLA University. This repository is the single so
 Browser-based MCQ quiz app covering HTML, CSS, JavaScript, Bootstrap, and React — draws 15 random questions from a 50-question bank each attempt, with a scored, color-coded answer review.
 - **Repo:** https://github.com/ashrma0502/Frontend-MCQ-Test
 - **Tech:** HTML, CSS, JavaScript, Bootstrap 5
-- **Status:** Not deployed yet
 
 #### Seat Allocation Management System
 Console-based C application for managing exam-hall seat allocation — assigns, releases, and searches seats in real time, with binary-file persistence and a timestamped activity log.
 - **Repo:** https://github.com/ashrma0502/Seat-Allocation-System
 - **Tech:** C
-- **Status:** Not deployed yet
 
 #### World Bank Data Pipeline
 Production-style ETL pipeline that ingests World Bank economic indicators for five countries through a Bronze → Silver → Gold medallion architecture, with multithreaded extraction and layered data-quality gates, materialized in MySQL.
 - **Repo:** https://github.com/ashrma0502/World-Bank-Pipeline
 - **Tech:** Python, MySQL, pandas, SQLAlchemy
-- **Status:** Not deployed yet
 
 #### Flight Booking System
 Normalized relational database modeling an end-to-end flight booking platform — users, airlines, airports, flights, bookings, payments, and passengers — seeded with sample data across 15 domestic and international airlines.
 - **Repo:** https://github.com/ashrma0502/Flight-Booking-System
 - **Tech:** MySQL
-- **Status:** Not deployed yet
 
 #### Myntra Clone
 Pixel-perfect front-end clone of Myntra's e-commerce homepage — responsive navbar, promotional banners, brand and category carousels, and a 30+ item shop-by-category grid.
@@ -61,7 +57,6 @@ Glassmorphism-styled weather dashboard with hourly and 5-day forecasts, a detail
 Full-stack insurance operations platform with role-based Admin, Agent, and Policyholder portals, a guarded claim-status workflow, and a full adjudication audit trail.
 - **Repo:** https://github.com/ashrma0502/Insurance_Policy_Management
 - **Tech:** Flask, Python, MySQL, Bootstrap
-- **Status:** Not deployed yet
 
 ### 🏆 Hackathon Projects
 
@@ -69,7 +64,6 @@ Full-stack insurance operations platform with role-based Admin, Agent, and Polic
 Sensor-fusion sign language translator that combines webcam-based hand tracking (MediaPipe) with flex-sensor readings from an ESP32 smart glove, fusing both signals into a single gesture prediction with live confidence and stability scoring.
 - **Repo:** https://github.com/ashrma0502/Smart-Sign-Language-Translation-System
 - **Tech:** Python, FastAPI, MediaPipe, OpenCV, ESP32
-- **Status:** Not deployed yet (hardware + camera dependent)
 
 ### 🧑‍💻 Personal Projects
 
