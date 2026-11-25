@@ -243,7 +243,7 @@ Grouped by issuing platform — the underlying files live in the [Certificates r
       "frontend": "https://fraudshield-gateway.vercel.app/",
       "backend": "https://backend-fraudshield.vercel.app/"
     },
-    "techStack": ["Python", "Django, "Django REST Framework", "JWT auth", "PostgreSQL", "scikit-learn", "React", "Vite", "Tailwind CSS", "Vercel"],
+    "techStack": ["Python", "Django", "Django REST Framework", "JWT auth", "PostgreSQL", "scikit-learn", "React", "Vite", "Tailwind CSS", "Vercel"],
     "type": "college"
   }
 ]
